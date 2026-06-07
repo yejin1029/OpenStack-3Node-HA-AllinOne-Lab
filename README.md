@@ -1,4 +1,4 @@
-# 📦 OpenStack 3Node HA All-in-One Lab
+# 📦 OpenStack 3Node All-in-One Lab
 ## 📌 Overview
 
 이 프로젝트는 **3노드 기반 OpenStack 고가용성(HA) All-in-One 환경 구축 실습**을 정리한 것이다. <br/>
